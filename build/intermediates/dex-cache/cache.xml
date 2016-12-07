@@ -1,0 +1,248 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/libs/converter-gson-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="aa557d71ead91cbf26e0c316a0f593d168303309">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/2/converter-gson-2.1.0_256ca4cc0b713e038e4bf14a767082ed7c1f448f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/libs/okio-1.9.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f824591a0016efbaeddb8300bee54832a1398cfa">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/2/okio-1.9.0_78c7df82c3a564cfcc6501448a5238872558b9f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/cardview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c5e6490573cd2cc8018417f60ddd251138b6ed61">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-cardview-v7-24.2.1_6e4e3d742f4685b2e5750fb2eeeca93200fd8efa/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_9ecec2b62aa58a5469785f036832a103e9627f69/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/recyclerview-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7521486d9bfd2cd9e756e0cf75ed7d97f2ce2d3b">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-recyclerview-v7-24.2.1_9da0219dc37d47e374864cdd04800a36b4ab7f74/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/libs/retrofit-2.1.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="2de7cd8b95b7021b1d597f049bcb422055119f2c">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/2/retrofit-2.1.0_76060e3629ceff2537fae2ca944fa56447c8eb78/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/libs/okhttp-3.4.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="c7c4f9e35c2fd5900da24f9872e3971801f08ce0">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/2/okhttp-3.4.1_efbd83adf63055ab2797da10e839969b24851fd0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_606a2c4090ad9c2fedf330e30904cff4dbac34df/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_2c1c55386d45acbc4f5cd4312c4635105e1aacf1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_c613bee9f7f61dc8bc7985a4844677c3d6386377/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1fbf6fe55fca6a303bcca336b6220d0fda63f1d0/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_5c0e9041b5e918c52a6dc0b2c1ec788d3d9b9752/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_c45c67ce7c876953e8e97dff1f0d9d798827ea9f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_fc9ad1c85bb12c4a72c4bd7ffe0b318674af38dd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="14489c0ff389f183ce73cd92eb432d60c9775354">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9abbf74c7ea3c05ec8af75e3198ed3ef82bfaa58/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.7.0/9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4/glide-3.7.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="9e9eeaf9948ee4d6c3ab354e8dc14368f16994a4">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/glide-3.7.0_5785616bc36a4ee2606e7efdadec01c4a572d6ae/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/design/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="e03f47f3d1017a093bb3239d4ec47c3447f40744">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-design-24.2.1_303126135cd1b0fd3fddb42d3820b4d7f6041ad3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="85ab27f1af1a442304c934079f8b7b549ca5e91d">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_54c783ce821781445e88cc42ab9136ff723e06b2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_61f82c280ba20a9d3c50dbc08083549a0d3e4b91/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_edbbbc939ca56aba798114ed47c650fe88ebc2ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_7b88c1753cabfdcdbd0bed8fa6a7f2ae16bf6026/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/.gradle/caches/modules-2/files-2.1/com.google.code.gson/gson/2.6.2/f1bc476cc167b18e66c297df599b2377131a8947/gson-2.6.2.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="f1bc476cc167b18e66c297df599b2377131a8947">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/gson-2.6.2_f1a72daab954b7d09cf146bfe826d50fd9dcef39/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/libs/otto-1.3.8.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="cf615176cd1177edf71d3c9605f8dc148fede6be">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/2/otto-1.3.8_5878e7b677d6425d008357c9d9bd1a96e72a7fbf/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_206c7153fd37afb4d31f41a4f79aac56e8953d2c/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f027a0076062966cd62d706f4328858afba550f3/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_a09a188d53469dba16311a66f190c677ced079f9/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.2"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Vehntus/Desktop/Eventful/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_1a1b56bc9c2b81cac401179df84666a3795b4d29/classes.dex" />
+    </item>
+
+</items>
