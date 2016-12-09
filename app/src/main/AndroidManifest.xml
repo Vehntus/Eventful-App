@@ -28,6 +28,9 @@
         <activity
             android:name=".Activity.DetailsActivity"
             android:screenOrientation="portrait" />
+        <activity
+            android:name=".Activity.SaveActivity"
+            android:screenOrientation="portrait" />
     </application>
 
 </manifest>

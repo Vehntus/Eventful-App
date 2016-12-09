@@ -7,18 +7,19 @@ package com.example.greenteam.eventfulevents.Activity;
 import android.app.ProgressDialog;
 import android.content.Intent;
 import android.os.Bundle;
-import android.support.design.widget.FloatingActionButton;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.DefaultItemAnimator;
 import android.support.v7.widget.GridLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.Toolbar;
+import android.view.Menu;
+import android.view.MenuItem;
 import android.view.View;
 import android.widget.Toast;
 
-import com.example.greenteam.eventfulevents.LocationServices.GPSTracker;
+import com.example.greenteam.eventfulevents.Adapter.CategoryAdapter;
 import com.example.greenteam.eventfulevents.Model.CategoriesModel;
 import com.example.greenteam.eventfulevents.R;
-import com.example.greenteam.eventfulevents.Adapter.CategoryAdapter;
 import com.example.greenteam.eventfulevents.Retrofit.Interface.APIListService;
 import com.example.greenteam.eventfulevents.Retrofit.utility.RetrofitUtil;
 import com.example.greenteam.eventfulevents.Utility.MyApplication;
@@ -27,7 +28,7 @@ import com.example.greenteam.eventfulevents.Utility.Utility;
 
 public class CategoryActivity extends AppCompatActivity implements RetrofitUtil.OnLoadCallback,
                                                                    View.OnClickListener {
-
+    private Toolbar toolbar;
     private RecyclerView                rvCategoryList;
     private CategoriesModel             categoriesModel;
     private ProgressDialog              dialog;
@@ -38,7 +39,7 @@ public class CategoryActivity extends AppCompatActivity implements RetrofitUtil.
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_category);
         init();
-
+        setSupportActionBar(toolbar);
         if (Utility.hasConnection(getApplicationContext())) {
             dialog = new ProgressDialog(CategoryActivity.this);
             dialog.setMessage("Please wait...");
@@ -59,9 +60,7 @@ public class CategoryActivity extends AppCompatActivity implements RetrofitUtil.
 
     private void init() {
         rvCategoryList = (RecyclerView) findViewById(R.id.rvList);
-
-//        final LinearLayoutManager linearLayoutManager = new LinearLayoutManager(getApplicationContext());
-//        rvCategoryList.setLayoutManager(linearLayoutManager);
+        toolbar = (Toolbar) findViewById(R.id.toolbar);
 
         rvCategoryList.setLayoutManager(new GridLayoutManager(getApplicationContext(), 2));
 
@@ -103,4 +102,22 @@ public class CategoryActivity extends AppCompatActivity implements RetrofitUtil.
         startActivity(intent);
     }
 
+
+
+    @Override
+    public boolean onCreateOptionsMenu(final Menu menu) {
+
+        getMenuInflater().inflate(R.menu.menu_save, menu);
+        return super.onCreateOptionsMenu(menu);
+    }
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+
+        if (item.getItemId() == R.id.menu_save)
+        {
+            Intent intent = new Intent(CategoryActivity.this, SaveActivity.class);
+            startActivity(intent);
+        }
+        return super.onOptionsItemSelected(item);
+    }
 }
